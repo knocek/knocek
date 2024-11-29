@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Karolina Nocek
+- 👀 I’m interested in  improving my skills in programming and finding the first job as a junior frontend.
+- 🌱 I’m currently learning how to create first game in C++.
+- 📫 How to reach me:
+-  Linkedin: https://www.linkedin.com/in/karolina-nocek-0b0553226
+- ⚡ Fun fact: I can't live without a gym. It's my second home.
