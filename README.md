@@ -3,7 +3,6 @@
 ### 💻 Currently working on
 
  - [Temple-Of-Gains](https://github.com/kmarciniec67/Temple-Of-Gains) - web app for tracking workouts, body measurements and progress analytics
- - [QR Code Generator](https://github.com/knocek/qr-code-generator) - desktop app built with Python&PyQt for generating and decoding customizable QR codes
  - Working towards the **IBM Full Stack Software Developer Certificate** on Coursea
 
 
